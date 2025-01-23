@@ -2,6 +2,11 @@
 # 🤖 Chatbot with Gemini API
 
 Welcome to the **Chatbot with Gemini API** project! This is a Python-based chatbot that uses **Gemini API** to generate code examples, assist with programming queries, and provide answers to user questions.
+![image](https://github.com/user-attachments/assets/c388c545-39a1-433d-906b-7c3d7898a72b)
+
+https://github.com/user-attachments/assets/cc30883b-7700-427d-8bb3-ff545ab44099
+
+
 
 ## 🚀 Getting Started
 
