@@ -1,17 +1,9 @@
-Here’s a **README.md** that is compact and formatted properly for your GitHub repository. You can directly copy-paste this into your `README.md` file.
 
-```markdown
 # 🤖 Chatbot with Gemini API
 
 Welcome to the **Chatbot with Gemini API** project! This is a Python-based chatbot that uses **Gemini API** to generate code examples, assist with programming queries, and provide answers to user questions.
 
 ## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/chatbot-with-gemini-api.git
-```
 
 ### 2. Install dependencies
 
